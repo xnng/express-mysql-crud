@@ -3,6 +3,6 @@ module.exports = {
   host: "ali.xnngs.cn",
   user: "root",
   password: "root",
-  database: "login",
+  database: "test",
   port: 3306
 };
